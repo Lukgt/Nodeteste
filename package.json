@@ -1,13 +1,13 @@
 {
-  "name": "teste",
+  "name": "Nodeteste",
   "version": "1.0.0",
-  "description": "Esse aplicativo é um teste",
+  "description": "teste",
   "main": "teste.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "teste"
+    "book"
   ],
   "author": "Lucas Teixeira",
   "license": "ISC",
